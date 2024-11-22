@@ -8,3 +8,4 @@ Through observation and research:
 •	I discovered that each building has a dedicated room with network switches.
 •	Every room has an access point for Wi-Fi connectivity.
 With these findings I went on to design the network in the following way
+https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/network.png
