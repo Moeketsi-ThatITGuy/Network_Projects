@@ -29,4 +29,6 @@ With these findings I went on to design the network in the following way
 
 ![alt text](https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/SVI.png)
 
+### DHCP pools for each VLAN:
+
 
