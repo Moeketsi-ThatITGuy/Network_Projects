@@ -31,4 +31,21 @@ With these findings I went on to design the network in the following way
 
 ### DHCP pools for each VLAN:
 
+![alt text](https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/DHCP.png)
+
+## 5.Checking if the configuration were setup correctly
+
+### Used the ipconfig to confirm if the DHCP configuration were setup correctly
+
+![alt text](https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/ipconfig.png)
+
+### Checked if the inter-vlan routing is working by pinging different vlans
+
+![alt text](https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/ping.png)
+
+## 6. Conclusion and Lessons Learned
+
+This project provided valuable insights into real-world networking practices and their limitations. Designing a VLAN-based network showed how segmentation can improve performance and scalability. Additionally, I learned the importance of troubleshooting configuration issues and optimizing network infrastructure to meet user needs.
+
+
 
