@@ -10,18 +10,23 @@ Through observation and research:
 With these findings I went on to design the network in the following way
 
 ![alt text](https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/network.png)
-                    *Network design*
+
+                            
 
 ## 3. Network Design Explained
 
-•	VLAN Segmentation: Each building was assigned a unique VLAN to limit broadcast traffic and improve performance.
-•	Inter-VLAN Routing: A multilayer switch was configured to route traffic between VLANs.
-•	DHCP: The multilayer switch was also configured to allocate IP addresses dynamically within a specified range for each VLAN.
-•	Access Points with a Unified SSID: All access points were configured to broadcast a single SSID, allowing seamless roaming between them.
+- 	VLAN Segmentation: Each building was assigned a unique VLAN to limit broadcast traffic and improve performance.
+- 	Inter-VLAN Routing: A multilayer switch was configured to route traffic between VLANs.
+- 	DHCP: The multilayer switch was also configured to allocate IP addresses dynamically within a specified range for each VLAN.
+- 	Access Points with a Unified SSID: All access points were configured to broadcast a single SSID, allowing seamless roaming between them.
 
 ## 4 Configuration Highlights:
-•	Basic switch configuration setup:
+### Basic switch configuration setup:
 
-![alt text](https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/network.png)
+![alt text](https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/basic%20config.png)
+
+### Vlans for each building and configuring switched virtual interface(SVI):
+
+![alt text](https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/basic%20config.png)
 
 
