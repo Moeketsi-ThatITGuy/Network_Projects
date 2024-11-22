@@ -27,6 +27,6 @@ With these findings I went on to design the network in the following way
 
 ### Vlans for each building and configuring switched virtual interface(SVI):
 
-![alt text](https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/basic%20config.png)
+![alt text](https://github.com/Moeketsi-ThatITGuy/Network_Projects/blob/main/SVI.png)
 
 
