@@ -1,5 +1,5 @@
 # Student Accommodation Network Simulation Project
-1. Introduction
+## 1. Introduction
 The goal of this project was to simulate and better understand the network infrastructure of my student accommodation. As a networking student, I was curious about how the network manages over 20+ buildings and provides internet access to hundreds of students. This simulation aimed to propose a logical and practical design while addressing inefficiencies observed in the existing setup.
 
 
